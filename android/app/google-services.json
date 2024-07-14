@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "782864367181",
+    "firebase_url": "https://voice-car-esp-32-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "voice-car-esp-32",
+    "storage_bucket": "voice-car-esp-32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782864367181:android:c7dff41a1d82222b782604",
+        "android_client_info": {
+          "package_name": "com.example.esp32VoiceCar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB7qFlPbOzRwuL1hmvVwGhbLAiPsqfBkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782864367181:android:120c5d4b5b07950e782604",
+        "android_client_info": {
+          "package_name": "com.example.olahouber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB7qFlPbOzRwuL1hmvVwGhbLAiPsqfBkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

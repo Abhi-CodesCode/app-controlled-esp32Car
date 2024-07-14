@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBCVgZ08szvVDSMSRs4HmRKlQqUs5GyaLU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>782864367181</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.esp32VoiceCar</string>
+	<key>PROJECT_ID</key>
+	<string>voice-car-esp-32</string>
+	<key>STORAGE_BUCKET</key>
+	<string>voice-car-esp-32.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:782864367181:ios:fabb34ac48c40684782604</string>
+	<key>DATABASE_URL</key>
+	<string>https://voice-car-esp-32-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
